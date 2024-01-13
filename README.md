@@ -11,15 +11,12 @@ os.environ['KAGGLE_USERNAME'] = *********
 os.environ['KAGGLE_KEY'] = ********
 
 ### For Flickr 8k
-!kaggle datasets download -d adityajn105/flickr8k -p /content/drive/MyDrive/Computer_Vision/data
-!unzip /content/drive/MyDrive/Computer_Vision/data/flickr8k.zip
-dataset = "8k"
-
+!kaggle datasets download -d adityajn105/flickr8k -p /data
+!unzip /data/flickr8k.zip
 
 ## For Flickr 30k
-!kaggle datasets download -d hsankesara/flickr-image-dataset -p /content/drive/MyDrive/Computer Vision/data
-!unzip flickr-image-dataset.zip
-dataset = "30k"
+!kaggle datasets download -d hsankesara/flickr-image-dataset -p /data
+!unzip /data/flickr-image-dataset.zip
 ```
 Or
 Flickr 8k - [Kaggle Flickr 8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)

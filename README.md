@@ -4,4 +4,4 @@ With the concept of this problem, a text paragraph describing the content of the
 The CLIP model is employed, where ResNet50 generates image embeddings, and DistilBERT generates text embeddings.
 
 # Demo
-
+![CLIP/demo](demo1.png)

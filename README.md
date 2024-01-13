@@ -29,3 +29,8 @@ Note: I used Flickr 8k
 
 # Demo
 ![CLIP](demo/demo1.png)
+
+# Reference
+![Medium](https://medium.com/towards-data-science/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2)
+
+
